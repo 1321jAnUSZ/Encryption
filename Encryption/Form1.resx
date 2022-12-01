@@ -490,15 +490,14 @@
   </data>
   <data name="DeleteButton.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAGOSURBVGhD7ZpbTsMwEEXzxQ5AsBVge7yWBUiteHzBBxsAtgH3RrIUIY9nxg7GCnOkqzatPZOT
-        NFakZgo2zAFyg3wiX0o+kCuEc4bjGsntdCmXyHDwKHPnTuetMmcIx3LOcKSjbMU7vhtDi9wjqeFfh/tS
-        zUgid0gzqVhvVu8bIo2EiESINBIiEiHSSIhI/BsR3gc9I0fzlg2O3SG381ae7iKPCL9/RSwyHMOxnPPA
-        DwS0vm60gofIC8Ixb8gJIvFz7DEiofV1YylokfFIEEtfF9aCJRmvBLH2NeMpmJOpkSCevia8BZcXM1+X
-        7z0rm7evSk3B5VlgPGciUdO3SE3BnEhpNctR07eIt+Amflq5Czu3AFjw9DVhLVhanWpkrH3NWAqWJBJe
-        GUtfF1pBi0TCI6P1daMVfEL4vfViXi4GvOGU0Pq60QrukZrbeM7hXInuIr9FiEiESCMhIhEijYSIxGZE
-        0sMA/KO/F+cIe77PWyvB50bS0emdC2Q1+PALZdKZ6RGeCUoM+eBNUGaavgH9yIuYYUL6bQAAAABJRU5E
-        rkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAY5JREFUaEPt
+        mltOwzAQRfPFDkCwFWB7vJYFSK14fMEHGwC2AfdGshQhj2fGDsYKc6SrNq09k5M0VqRmCjbMAXKDfCJf
+        Sj6QK4RzhuMaye10KZfIcPAoc+dO560yZwjHcs5wpKNsxTu+G0OL3COp4V+H+1LNSCJ3SDOpWG9W7xsi
+        jYSIRIg0EiISIdJIiEj8GxHeBz0jR/OWDY7dIbfzVp7uIo8Iv39FLDIcw7Gc88APBLS+brSCh8gLwjFv
+        yAki8XPsMSKh9XVjKWiR8UgQS18X1oIlGa8EsfY14ymYk6mRIJ6+JrwFlxczX5fvPSubt69KTcHlWWA8
+        ZyJR07dITcGcSGk1y1HTt4i34CZ+WrkLO7cAWPD0NWEtWFqdamSsfc1YCpYkEl4ZS18XWkGLRMIjo/V1
+        oxV8Qvi99WJeLga84ZTQ+rrRCu6Rmtt4zuFcie4iv0WISIRIIyEiESKNhIjEZkTSwwD8o78X5wh7vs9b
+        K8HnRtLR6Z0LZDX48Atl0pnpEZ4JSgz54E1QZpq+Af3Ii5hhQvptAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

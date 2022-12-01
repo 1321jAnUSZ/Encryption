@@ -82,7 +82,6 @@ namespace Encryption
                 {
                     MessageBox.Show("Podano złe parametry");
                 }
-            pictureBox1.Enabled = false;
         }
 
         private void DeleteButton_Click(object sender, EventArgs e)
@@ -107,13 +106,17 @@ namespace Encryption
             else
                 try 
                 {
-                    textBox4.Text += Odszyfrowanie(textBox3.Text, Convert.ToInt32(KluczTextBox.Text));
+                    textBox3.Text += Odszyfrowanie(textBox4.Text, Convert.ToInt32(KluczTextBox.Text));
                 }
                 catch (Exception)
                 {
                     MessageBox.Show("Podano złe parametry");
                 }
-            pictureBox2.Enabled = false;
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
